@@ -1,0 +1,11 @@
+question,choices,correct_answer
+Which school has a higher total absence rate for the year: School 1 or School 5?,"['School 1', 'School 5']",School 1
+Which school has more absences between February and April: School 3 or School 8?,"['School 3', 'School 8']",School 3
+Which month recorded the highest total absences across the schools?,"['March', 'May', 'December']",December
+Which school recorded the lowest absences in a single month between School 7 and School 9?,"['School 7', 'School 9']",School 9
+Which pattern best describes the change in absences over the year for School 6?,"['Absences increase consistently throughout the year.', 'Absences peak mid-year.', 'Absences are highest at the start of the year and decline.']",Absences are highest at the start of the year and decline.
+What is the relationship between School 1's and School 2's absences over the months?,"['Strong positive correlation', 'Weak correlation', 'No correlation']",Weak correlation
+In which month did School 3's absences start to decrease after reaching their peak?,"['February', 'August', 'N/A']",February
+Which school has a steeper decline in absences from June to August: School 6 or School 8?,"['School 6', 'School 8']",School 8
+Compare School 5 and School 9’s absences over the months. Which school has a more consistent trend (less variation)?,"['School 5', 'School 9']",School 9
+"In August, which school had a higher absence rate: School 4 or School 10?","['School 4', 'School 10']",School 10

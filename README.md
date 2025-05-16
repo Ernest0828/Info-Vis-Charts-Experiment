@@ -3,7 +3,7 @@
 This project involves the design of a laboratory experiment to compare Heatmaps vs Scatterplots for showing how pupil absences vary across a school year. 
 
 ## Experiment Design
-- This experiemnt was made with Python and the Tkinter library to allow for an interactive design. It will display charts with a question for users to answer relating to the visualisation provided.
+- This experiment was made with Python and the Tkinter library to allow for an interactive design. It will display charts with a question for users to answer relating to the visualisation provided. There are 2 options to answer each question.
 - It will start with displaying 10 questions visualised with a **Scatterplot** first, followed with 10 questions visualised with **Heatmaps**. The 10 questions are the same, just visualised differently.
 - After one question is answered, the screen will be blanked for 1 second before showing the next chart.
 - Two variables are recorded here: **Response Time** (time taken for the user to answer each question) and **Error Rate** (whether the users' answer was True or False).
